@@ -504,7 +504,7 @@ BlindAssist/
 ### 1. Clone the Repository
 
 bash
-git clone https://github.com/Nikita-Gupta280/BlindAssist.git
+git clone https://github.com/ishitasanger/BlindAssist.git
 cd BlindAssist
 
 
